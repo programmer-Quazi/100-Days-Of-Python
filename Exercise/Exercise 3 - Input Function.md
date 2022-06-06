@@ -36,6 +36,3 @@ e.g. When you hit  **run**, this is what should happen:
 
 Check your code is doing what it is supposed to. When you're happy with your code, click submit to check your solution.
 
-## Solution
-
-[https://repl.it/@appbrewery/day-1-3-solution](https://repl.it/@appbrewery/day-1-3-solution)
