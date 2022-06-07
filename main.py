@@ -1,29 +1,24 @@
-# print("py")
-
-'''
-
-String Menipulation And Code Intelligence
-
-'''
+# print(len(12345))
 
 
-# print("hello world! \nHello World  ")
+#data types 
 
 
-# print ("hellow" + "Tara")
-# print ("hellow" + " Tara")
-# print("Hello" + " " + "Tara")
-
-
-'''
-
-input function
-
-
-'''
-# input("What is your name?")
-print("Hello" + input("What is yourt name?"))
+#String 
+print("Hello"[0])
 
 
 
+# Float
+"""
+3.1416 
+"""
+# Boolean 
 
+"""
+True
+False
+"""
+
+
+len(input())
