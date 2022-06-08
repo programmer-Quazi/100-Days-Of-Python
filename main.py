@@ -5,7 +5,7 @@
 
 
 #String 
-print("Hello"[0])
+# print("Hello"[0])
 
 
 
@@ -21,4 +21,6 @@ False
 """
 
 
-len(input())
+# len(input())
+
+print(3*3+3/3-3)
