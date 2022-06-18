@@ -1,18 +1,19 @@
-print("Welcome to the rollercoster")
-height = int(input("How tall is the rollercoaster? "))
+# import my_module
+# import random
+
+# random_integer = random.randint(1, 10)
+# random_float = random.random()
+# print(random_float+random_integer)
 
 
-if height >= 120:
-    print("You can ride  rollercoaster")
-    age = int(input("How old are you? "))
-    if age <= 18:
-        print("Please Pay $7")
-    else:
-        print("Please Pay !2$  ")
-else:
-    print("Sorry, You have to grow taller before you can ride")
+# love_score = random.randint(1, 10)
+# print(f"Your love score is {love_score}")
 
 
 
-# TODO:Nested if / else 
+state_of_america = ["Delaware", "Pennsylvania", "New Jersey", "New York", "Connecticut", "Rhode Island", "Massachusetts", "Vermont", "Maine", "New Hampshire", "Massachusetts", "New Hampshire", "Maine", "Vermont", "Massachusetts", "Rhode Island", "Connecticut", "New York", "New Jersey", "Pennsylvania", "Delaware"]
+
+print(state_of_america[1])
+
+
 
